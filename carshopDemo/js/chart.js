@@ -1,3 +1,4 @@
+//draw charts in pages
 function drawChart(div, value) {
     if(0 <= value && value <= 1) {
         var data = [
